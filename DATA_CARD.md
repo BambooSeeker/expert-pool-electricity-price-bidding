@@ -2,7 +2,7 @@
 
 ## Data included
 
-`data/demo/forecast_inputs.csv` contains 336 half-hour records for seven published demonstration days. It includes the released coordinated forecast interval and the realized day-ahead price used for the public evaluation.
+`data/demo/forecast_inputs.csv` contains 336 half-hour records for seven released demonstration days. It includes the coordinated forecast and the realized day-ahead price used for the public evaluation.
 
 `data/demo/model_inputs.csv` contains the pre-clearing feature rows needed to run the released local sequence expert for the same seven target days. Target prices are kept in the separate evaluation file and are not used by the inference code.
 

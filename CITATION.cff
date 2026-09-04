@@ -15,7 +15,10 @@ authors:
     given-names: Pei
   - family-names: Chen
     given-names: Zhe
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-04
 license: MIT
 repository-code: https://github.com/BambooSeeker/expert-pool-electricity-price-bidding
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22291573

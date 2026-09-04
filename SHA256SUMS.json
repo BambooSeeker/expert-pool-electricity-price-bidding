@@ -4,7 +4,7 @@
     "path": ".gitignore"
   },
   {
-    "sha256": "17fecb6303e692b6197976421e5592cda0761a194597b80dc4e12438431521f7",
+    "sha256": "d59ad00853f719d0b1ca7177713ed51bdfb6b87abf7a39b433dbe1a4ca518939",
     "path": "CITATION.cff"
   },
   {
@@ -32,7 +32,7 @@
     "path": "configs/unit_case.json"
   },
   {
-    "sha256": "6ef7932987676c70832a34d188a0f08e32e4549217fc4f0747c6b5e11c547588",
+    "sha256": "ab60f45aa8d73bf56e468aaef32f4031b31d9715baf7289cac1f29ac1b63d5be",
     "path": "DATA_CARD.md"
   },
   {
@@ -52,8 +52,8 @@
     "path": "data/demo/residual_medoids.csv"
   },
   {
-    "sha256": "605a63cd921d7aea0b3698e4f67ed72b5f0a8f8d9777abfc51868c2ce7f205f1",
-    "path": "docs/CODE_OCEAN.md"
+    "sha256": "382819088d1c7df625d7602e07bb7cfcb9ae6327d3c9b54f1cc8b434e928faba",
+    "path": "docs/ARCHIVAL_RECORD.md"
   },
   {
     "sha256": "81e7057647b240efdc1f81d3b989d319db833ef83e581e618fef08e3f5a6ba1b",
@@ -80,7 +80,7 @@
     "path": "models/Proposed_VMD_h16.pt"
   },
   {
-    "sha256": "2d9b68e9af49b419a0b4e2fd02cfc208464b20488ce01a4f895108035f87333a",
+    "sha256": "419652ec2d67edd98262f8b5e39163b8e270660659b97d2052d6e46327c96fef",
     "path": "README.md"
   },
   {
