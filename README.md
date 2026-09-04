@@ -1,8 +1,8 @@
 # Expert-Pool Coordination of Pretrained Priors and Market Fundamentals for Electricity Price Forecasting and Risk-Aware Spot-Market Bidding
 
-This repository accompanies the manuscript submitted to IEEE Transactions on Smart Grid. It provides a reproducible seven-day demonstration of the reported forecast-to-bid workflow for a Zhejiang day-ahead electricity-market case.
+This repository accompanies the manuscript submitted to IEEE Transactions on Power Systems. It provides a reproducible seven-day demonstration of the reported forecast-to-bid workflow for a Zhejiang day-ahead electricity-market case.
 
-Version 1.0.1 is permanently archived at [Zenodo](https://doi.org/10.5281/zenodo.22291573). The GitHub repository hosts the maintained source, while the Zenodo record fixes the exact files cited by the manuscript.
+Version 1.0.2 is permanently archived at [Zenodo](https://doi.org/10.5281/zenodo.22292740). The GitHub repository hosts the maintained source, while the Zenodo record fixes the exact files cited by the manuscript.
 
 The package is an inference and decision demonstration. It includes a frozen local VMD sequence-expert checkpoint, the seven-day public demo inputs, the released coordinated forecast curves, whole-day residual medoids, the generator case, and code that evaluates the forecast and solves a constrained ten-segment offer problem. The complete 399-day market table, full training matrices, and unrestricted third-party TSFM checkpoints are not included.
 
@@ -34,7 +34,7 @@ The bidding result is an ex-ante single-unit offer evaluation under the stated m
 
 ## Citation
 
-Please cite the accompanying paper and the archived software release: `https://doi.org/10.5281/zenodo.22291573`. Machine-readable citation metadata are provided in `CITATION.cff`.
+Please cite the accompanying paper and the archived software release: `https://doi.org/10.5281/zenodo.22292740`. Machine-readable citation metadata are provided in `CITATION.cff`.
 
 ## Data and code availability
 

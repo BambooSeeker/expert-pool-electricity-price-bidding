@@ -4,7 +4,7 @@
     "path": ".gitignore"
   },
   {
-    "sha256": "d59ad00853f719d0b1ca7177713ed51bdfb6b87abf7a39b433dbe1a4ca518939",
+    "sha256": "7e2c50fe555e0c8b057991a4c50b3e322e38df8b135638fb18edd47f67befd04",
     "path": "CITATION.cff"
   },
   {
@@ -52,7 +52,7 @@
     "path": "data/demo/residual_medoids.csv"
   },
   {
-    "sha256": "382819088d1c7df625d7602e07bb7cfcb9ae6327d3c9b54f1cc8b434e928faba",
+    "sha256": "ae9f2014bc990caaa062a087874a97a6082680f7ad65bf10a002638242c25194",
     "path": "docs/ARCHIVAL_RECORD.md"
   },
   {
@@ -80,7 +80,7 @@
     "path": "models/Proposed_VMD_h16.pt"
   },
   {
-    "sha256": "419652ec2d67edd98262f8b5e39163b8e270660659b97d2052d6e46327c96fef",
+    "sha256": "1e44d141998ffdcf0fdc03607ae1f1793a6690d44155e3100c625f24628c9e35",
     "path": "README.md"
   },
   {

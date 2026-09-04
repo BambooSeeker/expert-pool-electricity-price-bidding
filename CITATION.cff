@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Expert-Pool Coordination of Pretrained Priors and Market Fundamentals for Electricity Price Forecasting and Risk-Aware Spot-Market Bidding"
-message: "Please cite the accompanying IEEE Transactions on Smart Grid manuscript and this software release."
+message: "Please cite the accompanying IEEE Transactions on Power Systems manuscript and this software release."
 type: software
 authors:
   - family-names: Zhu
@@ -15,10 +15,10 @@ authors:
     given-names: Pei
   - family-names: Chen
     given-names: Zhe
-version: 1.0.1
+version: 1.0.2
 date-released: 2026-09-04
 license: MIT
 repository-code: https://github.com/BambooSeeker/expert-pool-electricity-price-bidding
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.22291573
+    value: 10.5281/zenodo.22292740
