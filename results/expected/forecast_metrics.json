@@ -1,0 +1,7 @@
+{
+  "days": 7,
+  "periods_per_day": 48,
+  "MAPE_percent": 21.781468268071215,
+  "RMSE_CNY_per_MWh": 94.34989198574091,
+  "MAE_CNY_per_MWh": 54.43352387961837
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Expert-Pool Coordination of Pretrained Priors and Market Fundamentals for Electricity Price Forecasting and Risk-Aware Spot-Market Bidding"
+message: "Please cite the accompanying IEEE Transactions on Smart Grid manuscript and this software release."
+type: software
+authors:
+  - family-names: Zhu
+    given-names: Jiawei
+  - family-names: Hou
+    given-names: Peng
+  - family-names: Jin
+    given-names: Rongsen
+  - family-names: Liu
+    given-names: Zeyu
+  - family-names: Zhang
+    given-names: Pei
+  - family-names: Chen
+    given-names: Zhe
+version: 1.0.0
+date-released: 2026-09-04
+license: MIT

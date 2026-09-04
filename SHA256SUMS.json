@@ -1,0 +1,106 @@
+[
+  {
+    "sha256": "cc7176e3140c0deafcf3d37b78f42e6af40915a64f5cc81b43765e238a3dd066",
+    "path": ".gitignore"
+  },
+  {
+    "sha256": "484403c65526cd201305fbc60fb291d878b8fc25b701f9c290808f0079db2dcc",
+    "path": "CITATION.cff"
+  },
+  {
+    "sha256": "7dcb428aa273099100309447106277c9a644b48c23554da5ffa072f66520bc51",
+    "path": "code/bidding.py"
+  },
+  {
+    "sha256": "73d19f593e2b8b522b1a75fffc1f18d53e1e8bac32b21d630c63392a6d4eb270",
+    "path": "code/model.py"
+  },
+  {
+    "sha256": "4d8e2e75c5895f9adf6333ce7bc428360647d88bc5a37e9052206a8474970bc7",
+    "path": "code/verify.py"
+  },
+  {
+    "sha256": "2a8237d81fa4f1813a3b699bb4da7993562118b093904bee98767d64d4540b82",
+    "path": "configs/coordination_rule.json"
+  },
+  {
+    "sha256": "46aa6ace7d02f8380a5bd374f82d66c457960ad35fa47badba3647664ee97f10",
+    "path": "configs/feature_groups.json"
+  },
+  {
+    "sha256": "6854c4110e686da96c815cea3159dbb7105df728d02cc01b2af0ba08a724d7e2",
+    "path": "configs/unit_case.json"
+  },
+  {
+    "sha256": "6ef7932987676c70832a34d188a0f08e32e4549217fc4f0747c6b5e11c547588",
+    "path": "DATA_CARD.md"
+  },
+  {
+    "sha256": "6d669392d5a9c3e521571c8c13f608e0d1572281bc4261865ba8ce9900f1b85c",
+    "path": "data/DATA_TERMS.md"
+  },
+  {
+    "sha256": "b73d674d93855b7b7599c1b1a7ac684fbd6e1bff58b30e1d078f184660bab2d9",
+    "path": "data/demo/forecast_inputs.csv"
+  },
+  {
+    "sha256": "bd90162b41a3aab6b38c79c1fb2663fc13b8b9f6504e5e833fd4fec40def9dd7",
+    "path": "data/demo/model_inputs.csv"
+  },
+  {
+    "sha256": "cd88f92915f76154776d6b3109acb6284ed2594be5bde2173d4283481c452a71",
+    "path": "data/demo/residual_medoids.csv"
+  },
+  {
+    "sha256": "605a63cd921d7aea0b3698e4f67ed72b5f0a8f8d9777abfc51868c2ce7f205f1",
+    "path": "docs/CODE_OCEAN.md"
+  },
+  {
+    "sha256": "81e7057647b240efdc1f81d3b989d319db833ef83e581e618fef08e3f5a6ba1b",
+    "path": "environment/Dockerfile"
+  },
+  {
+    "sha256": "12be8230a69ae1e9215a0126c1d8069f877480f0ac494bb6ffdf328c19d01b5f",
+    "path": "environment/requirements-lock.txt"
+  },
+  {
+    "sha256": "ff54d3fa03d2de1304d917c97984c34246f477b9e9bac0acdc85a43ab5af0cb3",
+    "path": "LICENSE"
+  },
+  {
+    "sha256": "4c9ebc3763da6829139cd23c6f1bc94ce2bf88b1dafd11b3cc8a8ba7bc31aa7b",
+    "path": "MODEL_CARD.md"
+  },
+  {
+    "sha256": "86231e8fc12ee846f6e6dd05b6d0498dd1d48877ade55507ec4764f673112430",
+    "path": "models/Proposed_VMD_h16_preprocessors.joblib"
+  },
+  {
+    "sha256": "16b0aa8e5a9fed40aa8b830ebd616fc373a122caffc7dd9279e9f606390530a2",
+    "path": "models/Proposed_VMD_h16.pt"
+  },
+  {
+    "sha256": "2d9b68e9af49b419a0b4e2fd02cfc208464b20488ce01a4f895108035f87333a",
+    "path": "README.md"
+  },
+  {
+    "sha256": "283080c7c0808efb755d0bb53ba821e9721f0357cc0ababeda160286834b9fbc",
+    "path": "REPRODUCIBILITY_SCOPE.md"
+  },
+  {
+    "sha256": "78221c1406aae8b4f521687bffe5c85dd03ef02375262ffd4578880a80f6df62",
+    "path": "results/expected/decision_results.csv"
+  },
+  {
+    "sha256": "67abf06e1a9de1112bceff28b38b9cf5959a08b0d1f6a8969bca555031f4167c",
+    "path": "results/expected/forecast_metrics.json"
+  },
+  {
+    "sha256": "2b46353680564e17e34d87dc476b68ca80c2751309787aad6f3d2b63d800c3e4",
+    "path": "results/expected/local_expert_forecast.csv"
+  },
+  {
+    "sha256": "da9f9c39135a6d59ba64c6d46a3648b6ee0bffc8f0306ff6e9e2167d26796b87",
+    "path": "run_demo.py"
+  }
+]

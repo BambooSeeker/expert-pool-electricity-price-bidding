@@ -1,0 +1,8 @@
+{
+  "forecast_artifact": "data/demo/forecast_inputs.csv",
+  "local_expert": "models/Proposed_VMD_h16.pt",
+  "coordination": "Frozen coordinated curves are released for the seven-day demonstration; the full validation-selected expert-weight files are not redistributed.",
+  "residual_scenarios": "20 weighted whole-day validation residual medoids",
+  "risk_weight": 0.20,
+  "tail_mass": 0.10
+}
